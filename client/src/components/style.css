@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+.mdl-head{
+    background-color: #72D3FE;
+}
+
+.mdl-body{
+    font-family: 'Amatic SC', cursive;
+
+}
+
+.mdl-foot{
+
+}
+
+.title{
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    font-style: bold;
+}
+
+.in, .bttn, .edt, .del{
+    font-size: 30px;
+}
